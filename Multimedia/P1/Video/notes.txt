@@ -1,0 +1,3 @@
+resoultion
+frame rate
+bit rate
